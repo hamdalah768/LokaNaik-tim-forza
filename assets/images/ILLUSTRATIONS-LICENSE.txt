@@ -1,7 +1,0 @@
-Ilustrasi antarmuka LokaNaik
-
-Berkas: brand-mark.svg, angle-eye.svg, angle-45.svg, angle-top.svg, account-security.svg.
-Ilustrasi SVG ini dapat digunakan, disalin, dan diubah dengan bebas.
-CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
-
-Lisensi foto terpisah dicantumkan dalam assets/media-licenses.json dan bagian Sumber & Referensi pada halaman.
